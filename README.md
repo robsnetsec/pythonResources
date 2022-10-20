@@ -65,20 +65,20 @@ if __name__ == '__main__':
 | random password generator (better)| [📝][randpass_better.py]
 | convert strings to lists / insert method for lists| [📝][str2list.py]      
 
-[prep1.py]: student-resources/prep1.py
-[prep2.py]: student-resources/prep2.py
-[prep3.py]: student-resources/prep3.py
-[prep4.py]: student-resources/prep4.py
-[101.py]: student-resources/101.py
-[prep5.py]: student-resources/prep5.py
-[prep6.py]: student-resources/prep6.py
-[prep7.py]: student-resources/prep7.py
-[prep8.py]: student-resources/prep8.py
-[prep9.py]: student-resources/prep9.py
-[enumerate-function.pdf]: student-resources/enumerate-function.pdf      
-[randpass_simple.py]: student-resources/randpass_simple.py
-[randpass_better.py]: student-resources/randpass_better.py
-[str2list.py]: student-resources/str2list.py   
+[prep1.py]: resources/prep1.py
+[prep2.py]: resources/prep2.py
+[prep3.py]: resources/prep3.py
+[prep4.py]: resources/prep4.py
+[101.py]: resources/101.py
+[prep5.py]: resources/prep5.py
+[prep6.py]: resources/prep6.py
+[prep7.py]: resources/prep7.py
+[prep8.py]: resources/prep8.py
+[prep9.py]: resources/prep9.py
+[enumerate-function.pdf]: resources/enumerate-function.pdf      
+[randpass_simple.py]: resources/randpass_simple.py
+[randpass_better.py]: resources/randpass_better.py
+[str2list.py]: resources/str2list.py   
           
       
 # Python Functions
